@@ -28,9 +28,6 @@
 <p>Once the data is prepared, we can start building and evaluating ML models. We will use scikit-learn to try at least three different ML models and use cross-validation to select the best model. Then, we will use grid search to optimize the parameters of the best model.</p>
 <h2>Deep Learning</h2>
 <p>After selecting the best ML model, we will build, compile, and fit a DNN to the data. We will plot the learning curve (loss vs. epoch) to visualize the training process. We will also vary the number of layers, the number of neurons per layer, the dimensionality of the MHFP, and/or the number of epochs to optimize the performance of the model.</p>
-<h2>Evaluation</h2>
-<p>Finally, we will evaluate the performance of the ML and DL models using appropriate metrics, such as accuracy, precision, and recall. We will also compare the results of the models to determine which one performs better on the data.</p>
-<h2>How to Run the Code</h2>
 <p>To run the code, you will need to have Python 3 and the following libraries installed:</p>
 
 <ul>
