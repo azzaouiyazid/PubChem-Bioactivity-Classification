@@ -39,17 +39,16 @@
 <p>You can install these libraries using <code>pip install</code>.</p>
 <p>To run the code, clone the repository and navigate to the project directory. Then, run the <code>main.py</code> script:</p>
 <pre>
-git clone https://github.com/USERNAME/PubChem-Bioactivity-Classification.git
+git clone https://github.com/azzaouiyazid/PubChem-Bioactivity-Classification.git
 cd PubChem-Bioactivity-Classification
 python main.py
 </pre>
 <p>The code will execute the project milestones in order and output the results.</p>
 <h2>Additional Notes</h2>
 <ul>
-  <li>The raw data can be downloaded from the <a href="https://pubchem.ncbi.nlm.nih.gov/bioactivity/">PubChem website</a>.</li>
-  <li>The MHFP method is described in detail in Lab 2 of the <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4790297/">Molecular Hash Fingerprint (MHFP) tutorial</a>.</li>
+  <li>The raw data can be downloaded from Data folder.</li>
+  </li>
   <li>The scikit-learn and tensorflow libraries provide a wide range of machine learning and deep learning models that you can experiment with. Try out different models and parameters to see which ones work best for your data.</li>
-
   <li>Make sure to tune the hyperparameters of the models to get the best performance. You can use techniques such as grid search or random search to optimize the hyperparameters.</li>
   <li>Don't forget to evaluate the models using appropriate metrics and compare the results to choose the best model for your data.</li>
 </ul>
